@@ -49,7 +49,7 @@ Without a doubt, getting a functional prototype for this game was _significantly
 
 But really, I _struggled_ with working on this game.
 I just _could not_ find something to be excited about for it.
-Maybe it's because I was relegated to the more boring task, maybe it's that I don't really want programming to be my
+Maybe it's because I was relegated to the more boring tasks, maybe it's that I don't really want programming to be my
 job, just a hobby, I don't know.
 Really, I think I just code to make _cool_ things, and very much to the fault of myself, I couldn't find many cool
 things to make for Slip Drift City.
